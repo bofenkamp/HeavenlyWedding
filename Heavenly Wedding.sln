@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9172E35E-37A0-DFF2-BCB6-A42593558F52}") = "Heavenly Wedding", "Assembly-CSharp-firstpass.csproj", "{86F74735-96C3-1E75-8393-ABD8CAF79523}"
+EndProject
+Project("{9172E35E-37A0-DFF2-BCB6-A42593558F52}") = "Heavenly Wedding", "Assembly-CSharp.csproj", "{CCBCF654-E7A7-5B07-3625-942FBB5DB693}"
+EndProject
+Project("{9172E35E-37A0-DFF2-BCB6-A42593558F52}") = "Heavenly Wedding", "Assembly-CSharp-Editor.csproj", "{66C31584-EBAB-2620-C9F9-FDC4CAE92923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F74735-96C3-1E75-8393-ABD8CAF79523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F74735-96C3-1E75-8393-ABD8CAF79523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F74735-96C3-1E75-8393-ABD8CAF79523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F74735-96C3-1E75-8393-ABD8CAF79523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBCF654-E7A7-5B07-3625-942FBB5DB693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBCF654-E7A7-5B07-3625-942FBB5DB693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBCF654-E7A7-5B07-3625-942FBB5DB693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBCF654-E7A7-5B07-3625-942FBB5DB693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C31584-EBAB-2620-C9F9-FDC4CAE92923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C31584-EBAB-2620-C9F9-FDC4CAE92923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C31584-EBAB-2620-C9F9-FDC4CAE92923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C31584-EBAB-2620-C9F9-FDC4CAE92923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
